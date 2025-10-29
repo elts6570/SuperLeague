@@ -18,6 +18,8 @@ Ensure you have the necessary dependencies installed:
 - numpy
 - pandas
 - matplotlib
+- beautifulsoup4
+- requests
 
 ## Disclaimer:
 
